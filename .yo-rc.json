@@ -1,0 +1,32 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.ezc.cws"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "monolith",
+    "baseName": "cws",
+    "packageName": "com.ezc.cws",
+    "packageFolder": "com/ezc/cws",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OWJlN2Y1YmUzNjMxY2VmOWNmNTNkMzllZmFhODMzMGI0YjFhNjhiMmM3NzJjODU0OGIzMmM4MzRkZjJmYzQ2M2Y1YzMzMTE5MGM5NzQzNjllZmU4ZDY5NmZkNWI2ODRjMmM1OTkwYWQ1YTZkNTZiMzA0OGU3N2U1MTI2MmE5NDQ=",
+    "clientFramework": "angularX",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
